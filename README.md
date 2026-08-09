@@ -1,3 +1,7 @@
-# atividades lab1
-Trabalhos realizados na cadeira de Laboratório de Programação I - UFSM.
-Aqui estão os três trabalhos desenvolvidos ao longo do semestre na cadeira. Todos eles desenvolvidos na linguagem C. Enfâse no terceiro trabalho que foi o principal, um gerenciador de notas (mural de notas).
+#Lab 1
+
+Trabalho desenvolvido na disciplina de **Laboratório de Programação I**, da Universidade Federal de Santa Maria (UFSM).
+
+O trabalho final foi desenvolvido em **C** e consiste em um **gerenciador de notas (mural de notas)**, utilizando a biblioteca gráfica **Allegro 5**.
+
+Para executar o projeto, é necessário ter a biblioteca Allegro 5 instalada e configurada no ambiente.
