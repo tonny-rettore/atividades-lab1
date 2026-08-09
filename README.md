@@ -1,4 +1,4 @@
-#Lab 1
+# Lab 1
 
 Trabalho desenvolvido na disciplina de **Laboratório de Programação I**, da Universidade Federal de Santa Maria (UFSM).
 
